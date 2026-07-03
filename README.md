@@ -8,8 +8,8 @@ Aplikasi desktop berbasis Java Swing untuk mengelola data mahasiswa dengan opera
 
 | Keterangan | Detail |
 |---|---|
-| **Nama** | Farhan |
-| **NIM** | I.2510513 |
+| **Nama** | Aji Cahya Mustaqim |
+| **NIM** | I.2510161 |
 | **Mata Kuliah** | Pemrograman Berorientasi Objek / Basis Data |
 | **IDE** | NetBeans |
 | **Bahasa** | Java |
